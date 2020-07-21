@@ -44,7 +44,7 @@ error (for example doing integer division too liberally / floating point divisio
 ## What We Learned
 
 This teaches about the use of loops, if/else statements and, possibly (depending on implementation), 
-nested if/else or even loops. It probably brought up some issues with input/output ("how do you ask the
+nested if/else or even nested loops. It probably brought up some issues with input/output ("how do you ask the
 user for this?"). 
 
 Simple arithmetic and algorithmic thinking are also used here. 
